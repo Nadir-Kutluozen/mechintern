@@ -2,7 +2,7 @@
 
 ## Setup
 
-First time setup (I've already done this for you):
+First time setup:
 1. Open terminal in this folder.
 2. Run `python -m venv venv`
 3. Activate the environment:
